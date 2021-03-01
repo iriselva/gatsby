@@ -13,8 +13,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
 
-      <h1 style={headingStyles}>
-        Hello gatsby and Netlify Webhooks!</h1>
+      <h1>Hello gatsby and Netlify Webhooks!</h1>
 
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
